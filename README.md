@@ -1,12 +1,11 @@
-# <Project Name>
+# CCBR-1223
 
-This code accompanies the paper entitled:<Project Name>
-
+This code accompanies the paper entitled: "3D intercellular assembly of decellularized matrix recapitulates in vivo tumor heterogeneity."
 
 To reproduce these results, follow these steps:
 
 1.  Clone this GitHub repo (i.e. the page you are on):
-    * ```git clone https://github.com/NIDAP-Community/<Project Name>.git```
+    * ```[git clone https://github.com/NIDAP-Community/<Project Name>.git](https://github.com/NIDAP-Community/3D-intercellular-assembly-of-decellularized-matrix-recapitulates-in-vivo-tumor-heterogeneity.git)```
 
 2.  The input files for this pipeline will be available upon request. Please reach out to the authors before continue to following steps
 
