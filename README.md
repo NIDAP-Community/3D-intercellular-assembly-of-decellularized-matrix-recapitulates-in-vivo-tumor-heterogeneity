@@ -1,6 +1,6 @@
-# CCBR-1223
+# 3D intercellular assembly of decellularized matrix recapitulates in vivo tumor heterogeneity
 
-This code accompanies the paper entitled: "3D intercellular assembly of decellularized matrix recapitulates in vivo tumor heterogeneity."
+This code accompanies the paper entitled: "3D intercellular assembly of decellularized matrix recapitulates in vivo tumor heterogeneity." (CCBR-1223)
 
 To reproduce these results, follow these steps:
 
