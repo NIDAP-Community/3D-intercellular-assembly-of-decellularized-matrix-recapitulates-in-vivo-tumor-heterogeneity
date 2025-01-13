@@ -2,7 +2,7 @@
 
 This code accompanies the paper entitled: "3D intercellular assembly of decellularized matrix recapitulates in vivo tumor heterogeneity." (CCBR-1223)
 
-To reproduce these results, follow these steps in a linus OS:
+To reproduce these results, follow these steps on a Linux OS (tested on Oracle Linux Server 7.9):
 
 1.  Clone this GitHub repo (i.e. the page you are on):
     * ```git clone https://github.com/NIDAP-Community/3D-intercellular-assembly-of-decellularized-matrix-recapitulates-in-vivo-tumor-heterogeneity.git```
